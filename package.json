@@ -1,0 +1,22 @@
+{
+  "name": "contentbasedimageretrival",
+  "version": "0.0.1",
+  "description": "Content-based visual information retrieval like Google Vision, Microsoft Computer Vision or Clarifai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwastikShrivastava/Content-Based-Image-Retrieval.git"
+  },
+  "author": "swastik shrivastava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SwastikShrivastava/Content-Based-Image-Retrieval/issues"
+  },
+  "homepage": "https://github.com/SwastikShrivastava/Content-Based-Image-Retrieval#readme",
+  "dependencies": {
+    "histogram": "^2.1.1"
+  }
+}
