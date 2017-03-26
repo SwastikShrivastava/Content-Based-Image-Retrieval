@@ -1,0 +1,1 @@
+python color_kmeans.py --image images/jp.png --clusters 3
